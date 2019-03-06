@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:AbsoloteApp" 
+             x:Class="AbsoloteApp.MainPage">
+    
+    <AbsoluteLayout
+        BackgroundColor="#A3A380"
+        VerticalOptions="FillAndExpand">
+        
+        <Label x:Name="player" 
+               Text="50" 
+               TextColor="#EFEBCE"
+               AbsoluteLayout.LayoutFlags="PositionProportional"/>
+        
+        <Label x:Name="computer"
+               Text="50"
+               TextColor="#BB8588"
+               AbsoluteLayout.LayoutFlags="PositionProportional"/>
+        
+         <Button x:Name="counter" 
+                Text="Count It Down!" 
+                TextColor="#EFEBCE"
+                AbsoluteLayout.LayoutBounds="115, 150, 100, 100" 
+                AbsoluteLayout.LayoutFlags="PositionProportional"/>
+       
+    </AbsoluteLayout>
+</ContentPage>

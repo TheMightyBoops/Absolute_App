@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{63D47FFB-D2D1-4FB9-97DA-3F01D72A49DB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbsoloteApp/MainPage.xaml">
+    <Files>
+      <File FileName="AbsoloteApp/MainPage.xaml.cs" Line="19" Column="32" />
+      <File FileName="AbsoloteApp/MainPage.xaml" Line="28" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AbsoloteApp.Android PreferredExecutionTarget="Android.my_device" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AbsoloteApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+</Properties>

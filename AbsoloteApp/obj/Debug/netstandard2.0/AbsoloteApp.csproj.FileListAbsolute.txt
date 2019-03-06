@@ -1,0 +1,11 @@
+/Users/lnolting/Projects/AbsoloteApp/AbsoloteApp/bin/Debug/netstandard2.0/AbsoloteApp.deps.json
+/Users/lnolting/Projects/AbsoloteApp/AbsoloteApp/bin/Debug/netstandard2.0/AbsoloteApp.dll
+/Users/lnolting/Projects/AbsoloteApp/AbsoloteApp/bin/Debug/netstandard2.0/AbsoloteApp.pdb
+/Users/lnolting/Projects/AbsoloteApp/AbsoloteApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/lnolting/Projects/AbsoloteApp/AbsoloteApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/lnolting/Projects/AbsoloteApp/AbsoloteApp/obj/Debug/netstandard2.0/AbsoloteApp.csproj.CoreCompileInputs.cache
+/Users/lnolting/Projects/AbsoloteApp/AbsoloteApp/obj/Debug/netstandard2.0/AbsoloteApp.AssemblyInfoInputs.cache
+/Users/lnolting/Projects/AbsoloteApp/AbsoloteApp/obj/Debug/netstandard2.0/AbsoloteApp.AssemblyInfo.cs
+/Users/lnolting/Projects/AbsoloteApp/AbsoloteApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/lnolting/Projects/AbsoloteApp/AbsoloteApp/obj/Debug/netstandard2.0/AbsoloteApp.dll
+/Users/lnolting/Projects/AbsoloteApp/AbsoloteApp/obj/Debug/netstandard2.0/AbsoloteApp.pdb
